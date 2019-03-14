@@ -1,0 +1,12 @@
+.background{
+    background-color: black;
+    height: "30px";
+    color: rgb(255, 255, 255);
+    padding: 15px;
+    text-align: center;
+}
+footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}

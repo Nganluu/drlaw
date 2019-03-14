@@ -1,0 +1,9 @@
+.header-icon:hover, .header-info:hover {
+
+    color: rgb(3, 115, 180);
+}
+.header-icon{
+    padding-top: 5px;
+    margin-right: 20px;
+    font-size: 30px;
+}

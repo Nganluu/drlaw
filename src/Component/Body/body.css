@@ -1,0 +1,46 @@
+div>img{
+    color: aliceblue;
+    opacity: 20%;
+    -webkit-transition: 0.5s all;
+    -moz-transition: 0.5s all;
+    -o-transition: 0.5s all;
+    -ms-transition: 0.5s all;
+}
+div>img:hover{
+    color: aliceblue;
+    
+}
+.expand{
+    background:  rgb(3, 115, 180);
+    -webkit-transition: width 0.5s linear 0.025s;
+    transition: width 0.5s linear 0.025s;
+}
+.expand:hover{
+    width: 200px;
+}
+#inner{
+    margin-top: -65%;
+    margin-left: 43%;
+    width: 150px;
+    height: 50px;
+    font-size: 18px;
+    border-radius: 18px;
+}
+.link{
+    cursor:pointer;
+     color:blue;
+}
+.modal{
+    display: block;
+}
+.button1{
+ background-color: #e7e7e7; /* Green */
+  border: none;
+  padding: 0px;
+  width: 100%;
+  margin: 0;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
